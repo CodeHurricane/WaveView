@@ -10,7 +10,7 @@ public class MainActivity extends Activity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
-	 	final WaveView waveView = (WaveView) findViewById(R.id.waveView);
+	 	final WaveView1 waveView = (WaveView1) findViewById(R.id.waveView);
 	         waveView.postDelayed(new Runnable() {
 				 @Override
 				 public void run() {

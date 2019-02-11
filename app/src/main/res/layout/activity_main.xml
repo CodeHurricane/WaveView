@@ -4,7 +4,7 @@
     android:layout_height="match_parent"
      >
 
-    <com.example.user.waveview.WaveView
+    <com.example.user.waveview.WaveView1
         android:id="@+id/waveView"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
